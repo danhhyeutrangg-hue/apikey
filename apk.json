@@ -1,0 +1,13 @@
+{
+  "keys": {
+    "hdanhiuemtrang": {
+      "valid": true,
+      "expires": 9999999999999,
+      "note": "VIP"
+    },
+    "keytest": {
+      "valid": true,
+      "note": "For testing"
+    }
+  }
+}
