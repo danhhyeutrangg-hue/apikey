@@ -5,7 +5,7 @@
       "expires": 9999999999999,
       "note": "VIP"
     },
-    "keytest1": {
+    "keytest": {
       "valid": true,
       "note": "For testing"
     }
