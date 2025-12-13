@@ -8,6 +8,11 @@
     "keytest": {
       "valid": true,
       "note": "For testing"
+    },
+    "tch1234": {
+      "valid": true,
+      "expires": 1765645200,
+      "note": "key1ngay"
     }
   }
 }
