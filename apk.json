@@ -43,6 +43,11 @@
       "valid": true,
       "expires": 1765808160,
       "note": "15/12 9h16"
+    },
+    "si19801abcxyz": {
+      "valid": true,
+      "expires": 1765864800,
+      "note": "16/12 1h"
     }
   }
 }
