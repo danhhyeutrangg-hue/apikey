@@ -48,6 +48,11 @@
       "valid": true,
       "expires": 1765864800,
       "note": "16/12 1h"
+    },
+    "Khanhiulinh": {
+      "valid": true,
+      "expires": 1765951200,
+      "note": "17/12/2025 1h ch"
     }
   }
 }
